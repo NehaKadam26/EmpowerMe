@@ -7,15 +7,15 @@
 ## 📱 Screenshots
 
 <p float="left">
-  <img src="screenshots/Screenshot 2026-03-14 at 10.23.29 PM.png" width="180"/>
-  <img src="screenshots/Screenshot 2026-03-14 at 10.25.18 PM.png" width="180"/>
-  <img src="screenshots/Screenshot 2026-03-14 at 10.26.39 PM.png" width="180"/>
-  <img src="screenshots/Screenshot 2026-03-14 at 10.28.53 PM.png" width="180"/>
+  <img src="screenshots/splash.png" width="180"/>
+  <img src="screenshots/signup.png" width="180"/>
+  <img src="screenshots/home.png" width="180"/>
+  <img src="screenshots/fakecall.png" width="180"/>
 </p>
 <p float="left">
-  <img src="screenshots/Screenshot 2026-03-14 at 10.29.14 PM.png" width="180"/>
-  <img src="screenshots/Screenshot 2026-03-14 at 10.33.19 PM.png" width="180"/>
-  <img src="screenshots/Screenshot 2026-03-14 at 10.35.16 PM.png" width="180"/>
+  <img src="screenshots/add_contact.png" width="180"/>
+  <img src="screenshots/forum.png" width="180"/>
+  <img src="screenshots/profile.png" width="180"/>
 </p>
 
 ---
@@ -61,32 +61,32 @@
 ### Installation
 
 1. **Clone the repository**
-```bash
+\`\`\`bash
 git clone https://github.com/NehaKadam26/Empower_me.git
 cd Empower_me
-```
+\`\`\`
 
 2. **Install dependencies**
-```bash
+\`\`\`bash
 flutter pub get
-```
+\`\`\`
 
 3. **Set up Firebase**
    - Create a Firebase project at [firebase.google.com](https://firebase.google.com)
-   - Add your `google-services.json` to `android/app/`
-   - Add your `GoogleService-Info.plist` to `ios/Runner/`
+   - Add your \`google-services.json\` to \`android/app/\`
+   - Add your \`GoogleService-Info.plist\` to \`ios/Runner/\`
    - Enable Email/Password authentication in Firebase Console
 
 4. **Run the app**
-```bash
+\`\`\`bash
 flutter run
-```
+\`\`\`
 
 ---
 
 ## 📁 Project Structure
 
-```
+\`\`\`
 lib/
 ├── main.dart
 ├── screens/
@@ -102,7 +102,7 @@ lib/
 │   └── profile_screen.dart
 ├── models/
 └── services/
-```
+\`\`\`
 
 ---
 
