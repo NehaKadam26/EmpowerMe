@@ -62,8 +62,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/NehaKadam26/Empower_me.git
-cd Empower_me
+git clone https://github.com/NehaKadam26/EmpowerMe.git
+cd EmpowerMe
 ```
 
 2. **Install dependencies**
@@ -88,19 +88,24 @@ flutter run
 ```
 lib/
 ├── main.dart
-├── screens/
-│   ├── splash_screen.dart
-│   ├── auth/
-│   │   ├── login_screen.dart
-│   │   └── signup_screen.dart
-│   ├── home_screen.dart
-│   ├── sos_screen.dart
-│   ├── fake_call_screen.dart
-│   ├── emergency_contacts_screen.dart
-│   ├── forum_screen.dart
-│   └── profile_screen.dart
-├── models/
-└── services/
+├── first_page.dart
+├── signup_page.dart
+├── loginP_page.dart
+├── community_forum.dart
+├── fakecallsscreen.dart
+├── sos_alert.dart
+├── sos_service.dart
+├── getuserlocation.dart
+├── addclose_people.dart
+├── close_people_screen.dart
+├── profile_page.dart
+├── edit_profile_page.dart
+├── notifications_page.dart
+├── privacy_security_page.dart
+├── help_support_page.dart
+├── about_page.dart
+├── feature_cards.dart
+└── firebase_options.dart
 ```
 
 ---
