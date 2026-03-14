@@ -19,7 +19,6 @@
 
 EmpowerMe is a cross-platform mobile application built with Flutter and Firebase, designed to help women stay safe in emergency situations. The app provides instant SOS alerts, live location sharing, fake call simulation, and a trusted contacts system — all wrapped in a clean, intuitive interface.
 
-> 2nd Year Mini Project — Ramrao Adik Institute of Technology (2025)
 
 ---
 
@@ -139,7 +138,6 @@ lib/
 | Dilkush Janwa | [@dilkush-31](https://github.com/dilkush-31) |
 | Hitarth Khot | [@hitarthruns](https://github.com/hitarthruns) |
 
-> 2nd Year Mini Project — Ramrao Adik Institute of Technology
 
 ---
 
