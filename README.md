@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="screenshots/splash.png" width="120"/>
   
   # EmpowerMe
   ### Your Safety, Our Priority
