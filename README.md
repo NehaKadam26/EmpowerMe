@@ -61,48 +61,26 @@
 ### Installation
 
 1. **Clone the repository**
-\`\`\`bash
+```bash
 git clone https://github.com/NehaKadam26/Empower_me.git
 cd Empower_me
-\`\`\`
+```
 
 2. **Install dependencies**
-\`\`\`bash
+```bash
 flutter pub get
-\`\`\`
+```
 
 3. **Set up Firebase**
    - Create a Firebase project at [firebase.google.com](https://firebase.google.com)
-   - Add your \`google-services.json\` to \`android/app/\`
-   - Add your \`GoogleService-Info.plist\` to \`ios/Runner/\`
+   - Add your `google-services.json` to `android/app/`
+   - Add your `GoogleService-Info.plist` to `ios/Runner/`
    - Enable Email/Password authentication in Firebase Console
 
 4. **Run the app**
-\`\`\`bash
+```bash
 flutter run
-\`\`\`
-
----
-
-## 📁 Project Structure
-
-\`\`\`
-lib/
-├── main.dart
-├── screens/
-│   ├── splash_screen.dart
-│   ├── auth/
-│   │   ├── login_screen.dart
-│   │   └── signup_screen.dart
-│   ├── home_screen.dart
-│   ├── sos_screen.dart
-│   ├── fake_call_screen.dart
-│   ├── emergency_contacts_screen.dart
-│   ├── forum_screen.dart
-│   └── profile_screen.dart
-├── models/
-└── services/
-\`\`\`
+```
 
 ---
 
