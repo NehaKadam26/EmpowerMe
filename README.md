@@ -130,17 +130,19 @@ lib/
 
 ---
 
-## Team
+## 👩‍💻 Team
 
-| Name | Role |
-|------|------|
-| [Neha Kadam](https://github.com/NehaKadam26) | Developer |
-| Ishita Sharma | Developer |
-| [Dilkush Janwa](https://github.com/dilkush-31) | Developer |
-| [Hitarth Khot](https://github.com/hitarthruns) | Developer |
+| Name | GitHub |
+|------|--------|
+| Neha Kadam | [@NehaKadam26](https://github.com/NehaKadam26) |
+| Ishita Sharma | — |
+| Dilkush Janwa | [@dilkush-31](https://github.com/dilkush-31) |
+| Hitarth Khot | [@hitarthruns](https://github.com/hitarthruns) |
+
+> 2nd Year Mini Project — Ramrao Adik Institute of Technology
 
 ---
 
 <div align="center">
-  Made with ❤️ for women's safety · © 2025 EmpowerMe
+  💡 Built by students, inspired by real world problems
 </div>
