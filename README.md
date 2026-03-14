@@ -84,6 +84,27 @@ flutter run
 
 ---
 
+## 📁 Project Structure
+```
+lib/
+├── main.dart
+├── screens/
+│   ├── splash_screen.dart
+│   ├── auth/
+│   │   ├── login_screen.dart
+│   │   └── signup_screen.dart
+│   ├── home_screen.dart
+│   ├── sos_screen.dart
+│   ├── fake_call_screen.dart
+│   ├── emergency_contacts_screen.dart
+│   ├── forum_screen.dart
+│   └── profile_screen.dart
+├── models/
+└── services/
+```
+
+---
+
 ## 👩‍💻 Team
 
 | Name | GitHub |
