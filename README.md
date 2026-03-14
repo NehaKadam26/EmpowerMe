@@ -1,56 +1,76 @@
-# 🛡️ EmpowerMe — Your Safety, Our Priority
+<div align="center">
+  <img src="screenshots/splash.png" width="120"/>
+  
+  # EmpowerMe
+  ### Your Safety, Our Priority
+  
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-> A women's personal safety companion app built with Flutter & Firebase, developed as a 2nd Year Mini Project at Ramrao Adik Institute of Technology.
+  A women's personal safety companion app — stay connected, protected, and empowered with real-time protection features and emergency assistance.
+
+  [View Screenshots](#screenshots) · [Getting Started](#getting-started) · [Features](#features)
+</div>
 
 ---
 
-## 📱 Screenshots
+## About
 
-<p float="left">
-  <img src="screenshots/splash.png" width="180"/>
-  <img src="screenshots/signup.png" width="180"/>
-  <img src="screenshots/home.png" width="180"/>
-  <img src="screenshots/fakecall.png" width="180"/>
+EmpowerMe is a cross-platform mobile application built with Flutter and Firebase, designed to help women stay safe in emergency situations. The app provides instant SOS alerts, live location sharing, fake call simulation, and a trusted contacts system — all wrapped in a clean, intuitive interface.
+
+> 2nd Year Mini Project — Ramrao Adik Institute of Technology (2025)
+
+---
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshots/splash.png" width="160"/>
+  &nbsp;
+  <img src="screenshots/signup.png" width="160"/>
+  &nbsp;
+  <img src="screenshots/home.png" width="160"/>
+  &nbsp;
+  <img src="screenshots/fakecall.png" width="160"/>
 </p>
-<p float="left">
-  <img src="screenshots/add_contact.png" width="180"/>
-  <img src="screenshots/forum.png" width="180"/>
-  <img src="screenshots/profile.png" width="180"/>
+<p align="center">
+  <img src="screenshots/add_contact.png" width="160"/>
+  &nbsp;
+  <img src="screenshots/forum.png" width="160"/>
+  &nbsp;
+  <img src="screenshots/profile.png" width="160"/>
 </p>
 
 ---
 
-## 🌟 About
+## Features
 
-**EmpowerMe** is a mobile safety application designed to help women stay protected in emergency situations. The app provides real-time location sharing, SOS alerts, fake call triggers, and a trusted contacts system — all in a clean, intuitive interface.
-
----
-
-## ✨ Features
-
-- 🔐 **User Authentication** — Secure sign up and login using Firebase Auth
-- 🆘 **SOS Alert** — Instantly send an emergency alert to trusted contacts
-- 📍 **Live Location Sharing** — Share real-time location with emergency contacts
-- 📞 **Fake Call** — Trigger a simulated incoming call to escape uncomfortable situations
-- 👥 **Emergency Contacts** — Add and manage trusted contacts for emergency situations
-- 💬 **Community Forum** — Connect, share safety tips, and learn together with other users
-- 👤 **User Profile** — Manage personal information, notifications, and privacy settings
+| Feature | Description |
+|---------|-------------|
+| 🔐 Authentication | Secure sign up and login via Firebase Auth |
+| 🆘 SOS Alert | Instantly notify trusted contacts in an emergency |
+| 📍 Live Location | Share real-time location with emergency contacts |
+| 📞 Fake Call | Trigger a simulated call to escape uncomfortable situations |
+| 👥 Emergency Contacts | Add and manage trusted contacts |
+| 💬 Community Forum | Connect and share safety tips with other users |
+| 👤 User Profile | Manage personal info, notifications and privacy settings |
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Usage |
 |------------|-------|
 | Flutter | Cross-platform mobile & web UI |
 | Dart | Programming language |
 | Firebase Auth | User authentication |
-| Firebase Firestore | Database for contacts & user data |
+| Firebase Firestore | Real-time database |
 | Google Maps API | Live location sharing |
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Flutter SDK (3.0+)
@@ -60,31 +80,31 @@
 
 ### Installation
 
-1. **Clone the repository**
+1. Clone the repository
 ```bash
 git clone https://github.com/NehaKadam26/EmpowerMe.git
 cd EmpowerMe
 ```
 
-2. **Install dependencies**
+2. Install dependencies
 ```bash
 flutter pub get
 ```
 
-3. **Set up Firebase**
-   - Create a Firebase project at [firebase.google.com](https://firebase.google.com)
-   - Add your `google-services.json` to `android/app/`
-   - Add your `GoogleService-Info.plist` to `ios/Runner/`
-   - Enable Email/Password authentication in Firebase Console
+3. Set up Firebase
+   - Create a project at [firebase.google.com](https://firebase.google.com)
+   - Add `google-services.json` to `android/app/`
+   - Add `GoogleService-Info.plist` to `ios/Runner/`
+   - Enable Email/Password authentication
 
-4. **Run the app**
+4. Run the app
 ```bash
 flutter run
 ```
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 lib/
 ├── main.dart
@@ -110,19 +130,17 @@ lib/
 
 ---
 
-## 👩‍💻 Team
+## Team
 
-| Name | GitHub |
-|------|--------|
-| Neha Kadam | [@NehaKadam26](https://github.com/NehaKadam26) |
-| Ishita Sharma | — |
-| Dilkush Janwa | [@dilkush-31](https://github.com/dilkush-31) |
-| Hitarth Khot | [@hitarthruns](https://github.com/hitarthruns) |
-
-> 2nd Year Mini Project — Ramrao Adik Institute of Technology
+| Name | Role |
+|------|------|
+| [Neha Kadam](https://github.com/NehaKadam26) | Developer |
+| Ishita Sharma | Developer |
+| [Dilkush Janwa](https://github.com/dilkush-31) | Developer |
+| [Hitarth Khot](https://github.com/hitarthruns) | Developer |
 
 ---
 
-## 📄 License
-
-This project is for academic purposes. All rights reserved © 2024 EmpowerMe.
+<div align="center">
+  Made with ❤️ for women's safety · © 2025 EmpowerMe
+</div>
