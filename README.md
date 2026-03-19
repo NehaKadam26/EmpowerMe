@@ -3,11 +3,9 @@
   # 🛡️ EmpowerMe
   **Your Safety, Our Priority**
 
-  [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-  [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
-  [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-  [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green?style=for-the-badge)](https://flutter.dev)
-  [![License](https://img.shields.io/badge/License-Academic-red?style=for-the-badge)](LICENSE)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
   *A women's personal safety companion app — stay connected, protected, and empowered.*
 
@@ -22,8 +20,6 @@
 Women's safety remains a critical concern in today's world. According to the National Crime Records Bureau, crimes against women in India have been consistently rising year over year. Many existing safety solutions are either too complex, require internet at all times, or are simply not built with the end user in mind.
 
 **EmpowerMe** was built to address this gap — a simple, fast, and reliable safety app that a woman can use in seconds when she needs help the most. As engineering students at RAIT, we wanted to build something that goes beyond academics and creates a real-world impact.
-
-> *"Technology should serve humanity — and what better use than keeping people safe."*
 
 ---
 
