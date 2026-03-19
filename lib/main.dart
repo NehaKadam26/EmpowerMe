@@ -4,16 +4,16 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'addclose_people.dart';
-import 'close_people_screen.dart';
-import 'fakecallsscreen.dart';
+import 'contacts/addclose_people.dart';
+import 'contacts/close_people_screen.dart';
+import 'safety/fakecallsscreen.dart';
 import 'firebase_options.dart';
-import 'loginP_page.dart';
-import 'signup_page.dart';
-import 'sos_alert.dart';
-import 'feature_cards.dart';
-import 'profile_page.dart';
-import 'community_forum.dart';
+import 'auth/loginP_page.dart';
+import 'auth/signup_page.dart';
+import 'safety/sos_alert.dart';
+import 'screens/feature_cards.dart';
+import 'screens/profile_page.dart';
+import 'screens/community_forum.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
