@@ -1,27 +1,41 @@
 <div align="center">
-  
-  # EmpowerMe
-  ### Your Safety, Our Priority
-  
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-  A women's personal safety companion app — stay connected, protected, and empowered with real-time protection features and emergency assistance.
+  # 🛡️ EmpowerMe
+  **Your Safety, Our Priority**
+
+  [![Flutter](https://img.shields.io/badge/Flutter-3.0+-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
+  [![Firebase](https://img.shields.io/badge/Firebase-Enabled-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com)
+  [![Dart](https://img.shields.io/badge/Dart-3.0+-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
+  [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS%20%7C%20Web-green?style=for-the-badge)](https://flutter.dev)
+  [![License](https://img.shields.io/badge/License-Academic-red?style=for-the-badge)](LICENSE)
+
+  *A women's personal safety companion app — stay connected, protected, and empowered.*
 
   [View Screenshots](#screenshots) · [Getting Started](#getting-started) · [Features](#features)
+
 </div>
 
 ---
 
-## About
+## 🌍 Why We Built This
 
-EmpowerMe is a cross-platform mobile application built with Flutter and Firebase, designed to help women stay safe in emergency situations. The app provides instant SOS alerts, live location sharing, fake call simulation, and a trusted contacts system — all wrapped in a clean, intuitive interface.
+Women's safety remains a critical concern in today's world. According to the National Crime Records Bureau, crimes against women in India have been consistently rising year over year. Many existing safety solutions are either too complex, require internet at all times, or are simply not built with the end user in mind.
 
+**EmpowerMe** was built to address this gap — a simple, fast, and reliable safety app that a woman can use in seconds when she needs help the most. As engineering students at RAIT, we wanted to build something that goes beyond academics and creates a real-world impact.
+
+> *"Technology should serve humanity — and what better use than keeping people safe."*
 
 ---
 
-## Screenshots
+## 📖 About
+
+EmpowerMe is a cross-platform mobile application built with Flutter and Firebase, designed to help women stay safe in emergency situations. The app provides instant SOS alerts, live location sharing, fake call simulation, and a trusted contacts system — all wrapped in a clean, intuitive interface.
+
+> 2nd Year Mini Project — Ramrao Adik Institute of Technology (2025)
+
+---
+
+## 📱 Screenshots
 
 <p align="center">
   <img src="screenshots/splash.png" width="160"/>
@@ -42,7 +56,7 @@ EmpowerMe is a cross-platform mobile application built with Flutter and Firebase
 
 ---
 
-## Features
+## ✨ Features
 
 | Feature | Description |
 |---------|-------------|
@@ -56,7 +70,7 @@ EmpowerMe is a cross-platform mobile application built with Flutter and Firebase
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 | Technology | Usage |
 |------------|-------|
@@ -68,7 +82,7 @@ EmpowerMe is a cross-platform mobile application built with Flutter and Firebase
 
 ---
 
-## Getting Started
+## 🚀 Getting Started
 
 ### Prerequisites
 - Flutter SDK (3.0+)
@@ -102,7 +116,7 @@ flutter run
 
 ---
 
-## Project Structure
+## 📁 Project Structure
 ```
 lib/
 ├── main.dart
@@ -136,7 +150,6 @@ lib/
 | Ishita Sharma | — |
 | Dilkush Janwa | [@dilkush-31](https://github.com/dilkush-31) |
 | Hitarth Khot | [@hitarthruns](https://github.com/hitarthruns) |
-
 
 ---
 
