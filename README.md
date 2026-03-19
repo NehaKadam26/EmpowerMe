@@ -116,24 +116,34 @@ flutter run
 ```
 lib/
 ├── main.dart
-├── first_page.dart
-├── signup_page.dart
-├── loginP_page.dart
-├── community_forum.dart
-├── fakecallsscreen.dart
-├── sos_alert.dart
-├── sos_service.dart
-├── getuserlocation.dart
-├── addclose_people.dart
-├── close_people_screen.dart
-├── profile_page.dart
-├── edit_profile_page.dart
-├── notifications_page.dart
-├── privacy_security_page.dart
-├── help_support_page.dart
-├── about_page.dart
-├── feature_cards.dart
-└── firebase_options.dart
+├── firebase_options.dart
+│
+├── auth/
+│   ├── loginP_page.dart
+│   └── signup_page.dart
+│
+├── screens/
+│   ├── first_page.dart
+│   ├── community_forum.dart
+│   ├── profile_page.dart
+│   ├── edit_profile_page.dart
+│   └── feature_cards.dart
+│
+├── safety/
+│   ├── sos_alert.dart
+│   ├── sos_service.dart
+│   ├── fakecallsscreen.dart
+│   └── getuserlocation.dart
+│
+├── contacts/
+│   ├── addclose_people.dart
+│   └── close_people_screen.dart
+│
+└── settings/
+    ├── notifications_page.dart
+    ├── privacy_security_page.dart
+    ├── help_support_page.dart
+    └── about_page.dart
 ```
 
 ---
